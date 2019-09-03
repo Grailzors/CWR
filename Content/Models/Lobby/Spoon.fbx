@@ -7,12 +7,12 @@ FBXHeaderExtension:  {
 	CreationTimeStamp:  {
 		Version: 1000
 		Year: 2019
-		Month: 8
-		Day: 29
+		Month: 9
+		Day: 3
 		Hour: 15
-		Minute: 11
-		Second: 32
-		Millisecond: 326
+		Minute: 21
+		Second: 23
+		Millisecond: 69
 	}
 	Creator: "FBX SDK/FBX Plugins version 2019.2"
 	SceneInfo: "SceneInfo::GlobalInfo", "UserData" {
@@ -34,14 +34,14 @@ FBXHeaderExtension:  {
 			P: "Original|ApplicationVendor", "KString", "", "", "Autodesk"
 			P: "Original|ApplicationName", "KString", "", "", "Maya"
 			P: "Original|ApplicationVersion", "KString", "", "", "201901"
-			P: "Original|DateTime_GMT", "DateTime", "", "", "29/08/2019 03:11:32.325"
+			P: "Original|DateTime_GMT", "DateTime", "", "", "03/09/2019 03:21:23.065"
 			P: "Original|FileName", "KString", "", "", "D:\932400529\Documents\Unreal Projects\CWR\Content\Models\Lobby\Spoon.fbx"
 			P: "LastSaved", "Compound", "", ""
 			P: "LastSaved|ApplicationVendor", "KString", "", "", "Autodesk"
 			P: "LastSaved|ApplicationName", "KString", "", "", "Maya"
 			P: "LastSaved|ApplicationVersion", "KString", "", "", "201901"
-			P: "LastSaved|DateTime_GMT", "DateTime", "", "", "29/08/2019 03:11:32.325"
-			P: "Original|ApplicationActiveProject", "KString", "", "", "D:\932400529\Documents\Unreal Projects\CWR\Content\Models"
+			P: "LastSaved|DateTime_GMT", "DateTime", "", "", "03/09/2019 03:21:23.065"
+			P: "Original|ApplicationActiveProject", "KString", "", "", "D:\932400529\Documents\maya\projects"
 			P: "Original|ApplicationNativeFile", "KString", "", "", "D:\932400529\Desktop\props\scenes\Spoon01_Modelling_v001.mb"
 		}
 	}
@@ -77,7 +77,7 @@ GlobalSettings:  {
 
 Documents:  {
 	Count: 1
-	Document: 2098899997920, "", "Scene" {
+	Document: 2507409518816, "", "Scene" {
 		Properties70:  {
 			P: "SourceObject", "object", "", ""
 			P: "ActiveAnimStackName", "KString", "", "", "Take 001"
@@ -232,13 +232,13 @@ Definitions:  {
 ;------------------------------------------------------------------
 
 Objects:  {
-	NodeAttribute: 2098901690432, "NodeAttribute::", "Null" {
+	NodeAttribute: 2507400595984, "NodeAttribute::", "Null" {
 		Properties70:  {
 			P: "Look", "enum", "", "",0
 		}
 		TypeFlags: "Null"
 	}
-	Geometry: 2098718410848, "Geometry::", "Mesh" {
+	Geometry: 2507415784576, "Geometry::", "Mesh" {
 		Vertices: *120 {
 			a: 0.499998092651367,-0.769626379013062,0.213485971093178,-0.500001907348633,-0.769626379013062,0.213485971093178,0.499998092651367,-0.769626379013062,0.411515921354294,-0.500001907348633,-0.769626379013062,0.411515921354294,0.596548140048981,-0.896339595317841,0.312500894069672,-0.596551954746246,-0.896339595317841,0.312500894069672,-0.276184767484665,0.0942716002464294,0.495940864086151,0.276180952787399,0.0942716002464294,0.495940864086151,-0.832870185375214,-0.859431862831116,-0.495096653699875,0.832866370677948,-0.859431862831116,-0.495096653699875,0.336485415697098,0.125931441783905,0.125000953674316,1.84885323047638,0.0908618569374084,0.213485971093178,2.21863436698914,0.0960574746131897,0.312500894069672,1.84885323047638,0.0908618569374084,0.411515921354294,-0.336489200592041,0.125931441783905,0.125000953674316,-1.84885692596436,0.0908618569374084,0.213485971093178,-2.2186381816864,0.0960574746131897,0.312500894069672,-1.84885692596436,0.0908618569374084,0.411515921354294,-0.429560661315918,0.236197412014008,0.00873264670372009,0.429556846618652,0.236197412014008,0.00873264670372009,-0.555196702480316,-0.7538942694664,0.312500894069672,0.555192947387695,-0.753894209861755,0.312500894069672,0.462993264198303,-0.630014300346375,0.409301936626434,-0.461344003677368,-0.629863500595093,0.409419775009155,0.461529165506363,-0.630051493644714,0.215728938579559,-0.460871875286102,-0.630461633205414,0.215727910399437,-0.297157496213913,0.26620227098465,0.127133592963219,0.297153025865555,0.26620227098465,0.127133578062057,0.832866370677948,-0.391222447156906,-0.495987266302109,-0.832870185375214,-0.391222447156906,-0.495987266302109,0.429556846618652,0.546245694160461,0.00848086643964052,-0.429560661315918,0.546245694160461,0.00848088134080172,0.255740702152252,0.218725979328156,0.492245614528656,-0.255744606256485,0.218726098537445,0.492245614528656,1.77478957176208,0.208352148532867,0.215673834085464,2.14309287071228,0.217181742191315,0.312500894069672,1.77463865280151,0.208578765392303,0.409482002258301,
 -1.77479326725006,0.208352029323578,0.215673848986626,-2.14309644699097,0.217181742191315,0.312500894069672,-1.77464234828949,0.208578646183014,0.409482002258301
@@ -358,7 +358,7 @@ Objects:  {
 			}
 		}
 	}
-	Model: 2098914009520, "Model::Spoon01_MESH_GRP", "Null" {
+	Model: 2507397337312, "Model::Spoon01_MESH_GRP", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationActive", "bool", "", "",1
@@ -369,7 +369,7 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 2098913986320, "Model::Spoon_Body", "Mesh" {
+	Model: 2507397318752, "Model::Spoon_Body", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationPivot", "Vector3D", "Vector", "",0,-9.06980496644974,0
@@ -386,7 +386,7 @@ Objects:  {
 		Shading: T
 		Culling: "CullingOff"
 	}
-	Material: 2098891842336, "Material::lambert1", "" {
+	Material: 2507408990288, "Material::lambert1", "" {
 		Version: 102
 		ShadingModel: "lambert"
 		MultiLayer: 0
@@ -409,17 +409,17 @@ Objects:  {
 Connections:  {
 	
 	;Model::Spoon01_MESH_GRP, Model::RootNode
-	C: "OO",2098914009520,0
+	C: "OO",2507397337312,0
 	
 	;NodeAttribute::, Model::Spoon01_MESH_GRP
-	C: "OO",2098901690432,2098914009520
+	C: "OO",2507400595984,2507397337312
 	
 	;Model::Spoon_Body, Model::Spoon01_MESH_GRP
-	C: "OO",2098913986320,2098914009520
+	C: "OO",2507397318752,2507397337312
 	
 	;Geometry::, Model::Spoon_Body
-	C: "OO",2098718410848,2098913986320
+	C: "OO",2507415784576,2507397318752
 	
 	;Material::lambert1, Model::Spoon_Body
-	C: "OO",2098891842336,2098913986320
+	C: "OO",2507408990288,2507397318752
 }
