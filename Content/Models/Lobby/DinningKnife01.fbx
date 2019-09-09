@@ -7,12 +7,12 @@ FBXHeaderExtension:  {
 	CreationTimeStamp:  {
 		Version: 1000
 		Year: 2019
-		Month: 8
-		Day: 29
-		Hour: 14
-		Minute: 8
-		Second: 37
-		Millisecond: 992
+		Month: 9
+		Day: 3
+		Hour: 15
+		Minute: 23
+		Second: 42
+		Millisecond: 590
 	}
 	Creator: "FBX SDK/FBX Plugins version 2019.2"
 	SceneInfo: "SceneInfo::GlobalInfo", "UserData" {
@@ -34,15 +34,15 @@ FBXHeaderExtension:  {
 			P: "Original|ApplicationVendor", "KString", "", "", "Autodesk"
 			P: "Original|ApplicationName", "KString", "", "", "Maya"
 			P: "Original|ApplicationVersion", "KString", "", "", "201901"
-			P: "Original|DateTime_GMT", "DateTime", "", "", "29/08/2019 02:08:37.990"
+			P: "Original|DateTime_GMT", "DateTime", "", "", "03/09/2019 03:23:42.586"
 			P: "Original|FileName", "KString", "", "", "D:\932400529\Documents\Unreal Projects\CWR\Content\Models\Lobby\DinningKnife01.fbx"
 			P: "LastSaved", "Compound", "", ""
 			P: "LastSaved|ApplicationVendor", "KString", "", "", "Autodesk"
 			P: "LastSaved|ApplicationName", "KString", "", "", "Maya"
 			P: "LastSaved|ApplicationVersion", "KString", "", "", "201901"
-			P: "LastSaved|DateTime_GMT", "DateTime", "", "", "29/08/2019 02:08:37.990"
-			P: "Original|ApplicationActiveProject", "KString", "", "", "D:\932400529\Documents\Unreal Projects\CWR\Content\Models"
-			P: "Original|ApplicationNativeFile", "KString", "", "", "D:\932400529\Desktop\props\scenes\Knife01_Modelling_v001.mb"
+			P: "LastSaved|DateTime_GMT", "DateTime", "", "", "03/09/2019 03:23:42.586"
+			P: "Original|ApplicationActiveProject", "KString", "", "", "D:\932400529\Documents\maya\projects"
+			P: "Original|ApplicationNativeFile", "KString", "", "", "D:\932400529\Desktop\props\scenes\DinningKnife01_Modelling_v001.mb"
 		}
 	}
 }
@@ -77,7 +77,7 @@ GlobalSettings:  {
 
 Documents:  {
 	Count: 1
-	Document: 2570073567504, "", "Scene" {
+	Document: 1793931152128, "", "Scene" {
 		Properties70:  {
 			P: "SourceObject", "object", "", ""
 			P: "ActiveAnimStackName", "KString", "", "", "Take 001"
@@ -232,13 +232,13 @@ Definitions:  {
 ;------------------------------------------------------------------
 
 Objects:  {
-	NodeAttribute: 2570068849920, "NodeAttribute::", "Null" {
+	NodeAttribute: 1793922437664, "NodeAttribute::", "Null" {
 		Properties70:  {
 			P: "Look", "enum", "", "",0
 		}
 		TypeFlags: "Null"
 	}
-	Geometry: 2570082074832, "Geometry::", "Mesh" {
+	Geometry: 1793941827712, "Geometry::", "Mesh" {
 		Vertices: *180 {
 			a: -0.5,-0.14319920539856,0.5,-0.5,0.14319920539856,0.5,-0.5,0.5,-0.5,0.5,0.5,-0.5,-0.5,-0.5,-0.5,0.5,-0.5,-0.5,-0.5,0.14319920539856,0,0,0.143793821334839,0,0,-0.143793821334839,0,-0.5,-0.14319920539856,0,-0.5,-0.5,-0.0865134000778198,0.5,-0.5,-0.0865134000778198,0.5,0.5,-0.0865134000778198,-0.5,0.5,-0.0865134000778198,0.5,-0.143793821334839,0.125,0.5,0.143793821334839,0.125,-0.5,0.14319920539856,0.125,-0.5,-0.14319920539856,0.125,0.296882212162018,-0.143793821334839,0.0625,0.296882212162018,0.143793821334839,0.0625,-0.5,0.14319920539856,0.0625,-0.5,-0.14319920539856,0.0625,-0.5,0.14319920539856,0.375,0.5,0.143793821334839,0.375,0.5,-0.143793821334839,0.375,-0.5,-0.14319920539856,0.375,0.27331206202507,0.333084285259247,-0.0232859719544649,0.27331206202507,-0.333084285259247,-0.0232859719544649,-0.5,-0.333084285259247,-0.0232859719544649,-0.5,0.333084285259247,-0.0232859719544649,-0.101558893918991,0.14319920539856,0.5,-0.101558893918991,-0.14319920539856,0.5,0,-0.14319920539856,0.375,0,-0.14319920539856,0.125,-0.101558893918991,-0.14319920539856,0.0625,-0.25,-0.14319920539856,0,-0.0719528794288635,-0.333084285259247,-0.0232859719544649,0,-0.5,-0.0865134000778198,0,-0.5,-0.5,0,0.5,-0.5,0,0.5,-0.0865134000778198,-0.0719528794288635,0.333084285259247,-0.0232859719544649,-0.25,0.14319920539856,0,-0.101558893918991,0.14319920539856,0.0625,0,0.14319920539856,0.125,0,0.14319920539856,0.375,0.398441106081009,0.143793821334839,0.4375,0.398441106081009,-0.143793821334839,0.4375,-0.0507794469594955,-0.14319920539856,0.4375,-0.5,-0.14319920539856,0.4375,-0.5,0.14319920539856,0.4375,-0.0507794469594955,0.14319920539856,0.4375,0.5,-0.5,-0.4741570353508,0.5,0.5,-0.4741570353508,0,0.5,-0.4741570353508,-0.5,0.5,-0.4741570353508,-0.5,-0.5,-0.4741570353508,0,-0.5,-0.4741570353508,0.101136229932308,-0.143793821334839,0.493206828832626,0.101136229932308,0.143793821334839,0.493206828832626
 		} 
@@ -354,7 +354,7 @@ Objects:  {
 			}
 		}
 	}
-	Model: 2570078068272, "Model::Knife01_MESH_GRP", "Null" {
+	Model: 1793672051104, "Model::DinningKnife01_MESH_GRP", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationActive", "bool", "", "",1
@@ -365,7 +365,7 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 2570078056672, "Model::Knife_Body", "Mesh" {
+	Model: 1793672067344, "Model::DinningKnife_Body", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationPivot", "Vector3D", "Vector", "",0,-0.5,0
@@ -381,7 +381,7 @@ Objects:  {
 		Shading: T
 		Culling: "CullingOff"
 	}
-	Material: 2570051253792, "Material::lambert1", "" {
+	Material: 1793942708336, "Material::lambert1", "" {
 		Version: 102
 		ShadingModel: "lambert"
 		MultiLayer: 0
@@ -403,18 +403,18 @@ Objects:  {
 
 Connections:  {
 	
-	;Model::Knife01_MESH_GRP, Model::RootNode
-	C: "OO",2570078068272,0
+	;Model::DinningKnife01_MESH_GRP, Model::RootNode
+	C: "OO",1793672051104,0
 	
-	;NodeAttribute::, Model::Knife01_MESH_GRP
-	C: "OO",2570068849920,2570078068272
+	;NodeAttribute::, Model::DinningKnife01_MESH_GRP
+	C: "OO",1793922437664,1793672051104
 	
-	;Model::Knife_Body, Model::Knife01_MESH_GRP
-	C: "OO",2570078056672,2570078068272
+	;Model::DinningKnife_Body, Model::DinningKnife01_MESH_GRP
+	C: "OO",1793672067344,1793672051104
 	
-	;Geometry::, Model::Knife_Body
-	C: "OO",2570082074832,2570078056672
+	;Geometry::, Model::DinningKnife_Body
+	C: "OO",1793941827712,1793672067344
 	
-	;Material::lambert1, Model::Knife_Body
-	C: "OO",2570051253792,2570078056672
+	;Material::lambert1, Model::DinningKnife_Body
+	C: "OO",1793942708336,1793672067344
 }
