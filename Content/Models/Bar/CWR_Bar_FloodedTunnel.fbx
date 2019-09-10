@@ -8,11 +8,11 @@ FBXHeaderExtension:  {
 		Version: 1000
 		Year: 2019
 		Month: 9
-		Day: 9
-		Hour: 14
-		Minute: 50
-		Second: 38
-		Millisecond: 91
+		Day: 10
+		Hour: 13
+		Minute: 18
+		Second: 9
+		Millisecond: 689
 	}
 	Creator: "FBX SDK/FBX Plugins version 2019.2"
 	SceneInfo: "SceneInfo::GlobalInfo", "UserData" {
@@ -34,13 +34,13 @@ FBXHeaderExtension:  {
 			P: "Original|ApplicationVendor", "KString", "", "", "Autodesk"
 			P: "Original|ApplicationName", "KString", "", "", "Maya"
 			P: "Original|ApplicationVersion", "KString", "", "", "201901"
-			P: "Original|DateTime_GMT", "DateTime", "", "", "09/09/2019 02:50:38.088"
+			P: "Original|DateTime_GMT", "DateTime", "", "", "10/09/2019 01:18:09.687"
 			P: "Original|FileName", "KString", "", "", "D:\932400196\Documents\Unreal Projects\CWR\Content\Models\Bar\CWR_Bar_FloodedTunnel.fbx"
 			P: "LastSaved", "Compound", "", ""
 			P: "LastSaved|ApplicationVendor", "KString", "", "", "Autodesk"
 			P: "LastSaved|ApplicationName", "KString", "", "", "Maya"
 			P: "LastSaved|ApplicationVersion", "KString", "", "", "201901"
-			P: "LastSaved|DateTime_GMT", "DateTime", "", "", "09/09/2019 02:50:38.088"
+			P: "LastSaved|DateTime_GMT", "DateTime", "", "", "10/09/2019 01:18:09.687"
 			P: "Original|ApplicationActiveProject", "KString", "", "", "D:\932400196\Documents\maya\projects"
 			P: "Original|ApplicationNativeFile", "KString", "", "", "D:\932400196\Desktop\TrainStation\Maya\Scenes\Bar_Refinement_001.ma"
 		}
@@ -77,7 +77,7 @@ GlobalSettings:  {
 
 Documents:  {
 	Count: 1
-	Document: 2738460977904, "", "Scene" {
+	Document: 2665321244128, "", "Scene" {
 		Properties70:  {
 			P: "SourceObject", "object", "", ""
 			P: "ActiveAnimStackName", "KString", "", "", "Take 001"
@@ -232,25 +232,25 @@ Definitions:  {
 ;------------------------------------------------------------------
 
 Objects:  {
-	NodeAttribute: 2738202984048, "NodeAttribute::", "Null" {
+	NodeAttribute: 2665337915792, "NodeAttribute::", "Null" {
 		Properties70:  {
 			P: "Look", "enum", "", "",0
 		}
 		TypeFlags: "Null"
 	}
-	NodeAttribute: 2738202982288, "NodeAttribute::", "Null" {
+	NodeAttribute: 2665337920720, "NodeAttribute::", "Null" {
 		Properties70:  {
 			P: "Look", "enum", "", "",0
 		}
 		TypeFlags: "Null"
 	}
-	NodeAttribute: 2738202981056, "NodeAttribute::", "Null" {
+	NodeAttribute: 2665337917200, "NodeAttribute::", "Null" {
 		Properties70:  {
 			P: "Look", "enum", "", "",0
 		}
 		TypeFlags: "Null"
 	}
-	Geometry: 2738590624384, "Geometry::", "Mesh" {
+	Geometry: 2665321520272, "Geometry::", "Mesh" {
 		Vertices: *12 {
 			a: -3640.36694335938,-99.9999389648438,-185.49755859375,-3640.36694335938,505.888977050781,-185.49755859375,-3640.36694335938,-99.9999389648438,-1078.62683105469,-3640.36694335938,505.888977050781,-1078.62683105469
 		} 
@@ -356,7 +356,7 @@ Objects:  {
 			}
 		}
 	}
-	Geometry: 2738590628480, "Geometry::", "Mesh" {
+	Geometry: 2665321539216, "Geometry::", "Mesh" {
 		Vertices: *12 {
 			a: -3640.36694335938,505.888977050781,-185.49755859375,-2702.25805664063,505.888977050781,-185.49755859375,-3640.36694335938,505.888977050781,-1078.62683105469,-2702.25805664063,505.888977050781,-1078.62683105469
 		} 
@@ -462,7 +462,7 @@ Objects:  {
 			}
 		}
 	}
-	Geometry: 2738590630016, "Geometry::", "Mesh" {
+	Geometry: 2665321522320, "Geometry::", "Mesh" {
 		Vertices: *12 {
 			a: -2704.74145507813,-99.9999389648438,-185.49755859375,-2704.74145507813,505.888977050781,-185.49755859375,-3640.36694335938,-99.9999389648438,-185.49755859375,-3640.36694335938,505.888977050781,-185.49755859375
 		} 
@@ -568,7 +568,7 @@ Objects:  {
 			}
 		}
 	}
-	Geometry: 2738590672512, "Geometry::", "Mesh" {
+	Geometry: 2665321526928, "Geometry::", "Mesh" {
 		Vertices: *12 {
 			a: -3640.36694335938,-100.000007629395,-185.49755859375,-2754.87426757813,1.76840209960938,-185.49755859375,-3640.36694335938,-100.000007629395,-1078.62683105469,-2754.87426757813,1.76840209960938,-1078.62683105469
 		} 
@@ -674,7 +674,7 @@ Objects:  {
 			}
 		}
 	}
-	Model: 2738558129184, "Model::TrainStation_MESH_GRP", "Null" {
+	Model: 2665304019200, "Model::TrainStation_MESH_GRP", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationActive", "bool", "", "",1
@@ -685,7 +685,7 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 2738558143104, "Model::CWR_Bar", "Null" {
+	Model: 2665304021520, "Model::CWR_Bar", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationPivot", "Vector3D", "Vector", "",-2734.3223822541,245.132232666016,-1461.3584132348
@@ -699,7 +699,7 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 2738558133824, "Model::CWR_Bar_FloodedTunnel", "Null" {
+	Model: 2665304042400, "Model::CWR_Bar_FloodedTunnel", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationPivot", "Vector3D", "Vector", "",-20.608197903593,0,164.798480607345
@@ -712,7 +712,7 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 2738558140784, "Model::pPlane86", "Mesh" {
+	Model: 2665304016880, "Model::pPlane86", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationPivot", "Vector3D", "Vector", "",-3312.56229946609,505.888977050781,-918.14760242362
@@ -726,7 +726,7 @@ Objects:  {
 		Shading: T
 		Culling: "CullingOff"
 	}
-	Model: 2738558136144, "Model::pPlane84", "Mesh" {
+	Model: 2665304065600, "Model::pPlane84", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationPivot", "Vector3D", "Vector", "",-3312.56229946609,505.888977050781,-918.14760242362
@@ -740,7 +740,7 @@ Objects:  {
 		Shading: T
 		Culling: "CullingOff"
 	}
-	Model: 2738558145424, "Model::pPlane87", "Mesh" {
+	Model: 2665304067920, "Model::pPlane87", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationPivot", "Vector3D", "Vector", "",-3312.56229946609,505.888977050781,-918.14760242362
@@ -754,7 +754,7 @@ Objects:  {
 		Shading: T
 		Culling: "CullingOff"
 	}
-	Model: 2738558122224, "Model::pPlane85", "Mesh" {
+	Model: 2665304047040, "Model::pPlane85", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationPivot", "Vector3D", "Vector", "",-3312.56229946609,-100.000007629395,-918.14760242362
@@ -768,7 +768,7 @@ Objects:  {
 		Shading: T
 		Culling: "CullingOff"
 	}
-	Material: 2738602579968, "Material::lambert1", "" {
+	Material: 2665322153520, "Material::lambert1", "" {
 		Version: 102
 		ShadingModel: "lambert"
 		MultiLayer: 0
@@ -791,56 +791,56 @@ Objects:  {
 Connections:  {
 	
 	;Model::TrainStation_MESH_GRP, Model::RootNode
-	C: "OO",2738558129184,0
+	C: "OO",2665304019200,0
 	
 	;NodeAttribute::, Model::TrainStation_MESH_GRP
-	C: "OO",2738202984048,2738558129184
+	C: "OO",2665337915792,2665304019200
 	
 	;Model::CWR_Bar, Model::TrainStation_MESH_GRP
-	C: "OO",2738558143104,2738558129184
+	C: "OO",2665304021520,2665304019200
 	
 	;NodeAttribute::, Model::CWR_Bar
-	C: "OO",2738202982288,2738558143104
+	C: "OO",2665337920720,2665304021520
 	
 	;Model::CWR_Bar_FloodedTunnel, Model::CWR_Bar
-	C: "OO",2738558133824,2738558143104
+	C: "OO",2665304042400,2665304021520
 	
 	;NodeAttribute::, Model::CWR_Bar_FloodedTunnel
-	C: "OO",2738202981056,2738558133824
+	C: "OO",2665337917200,2665304042400
 	
 	;Model::pPlane86, Model::CWR_Bar_FloodedTunnel
-	C: "OO",2738558140784,2738558133824
+	C: "OO",2665304016880,2665304042400
 	
 	;Model::pPlane84, Model::CWR_Bar_FloodedTunnel
-	C: "OO",2738558136144,2738558133824
+	C: "OO",2665304065600,2665304042400
 	
 	;Model::pPlane87, Model::CWR_Bar_FloodedTunnel
-	C: "OO",2738558145424,2738558133824
+	C: "OO",2665304067920,2665304042400
 	
 	;Model::pPlane85, Model::CWR_Bar_FloodedTunnel
-	C: "OO",2738558122224,2738558133824
+	C: "OO",2665304047040,2665304042400
 	
 	;Geometry::, Model::pPlane86
-	C: "OO",2738590624384,2738558140784
+	C: "OO",2665321520272,2665304016880
 	
 	;Material::lambert1, Model::pPlane86
-	C: "OO",2738602579968,2738558140784
+	C: "OO",2665322153520,2665304016880
 	
 	;Geometry::, Model::pPlane84
-	C: "OO",2738590628480,2738558136144
+	C: "OO",2665321539216,2665304065600
 	
 	;Material::lambert1, Model::pPlane84
-	C: "OO",2738602579968,2738558136144
+	C: "OO",2665322153520,2665304065600
 	
 	;Geometry::, Model::pPlane87
-	C: "OO",2738590630016,2738558145424
+	C: "OO",2665321522320,2665304067920
 	
 	;Material::lambert1, Model::pPlane87
-	C: "OO",2738602579968,2738558145424
+	C: "OO",2665322153520,2665304067920
 	
 	;Geometry::, Model::pPlane85
-	C: "OO",2738590672512,2738558122224
+	C: "OO",2665321526928,2665304047040
 	
 	;Material::lambert1, Model::pPlane85
-	C: "OO",2738602579968,2738558122224
+	C: "OO",2665322153520,2665304047040
 }
