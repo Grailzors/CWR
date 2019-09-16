@@ -8,11 +8,11 @@ FBXHeaderExtension:  {
 		Version: 1000
 		Year: 2019
 		Month: 9
-		Day: 13
-		Hour: 13
-		Minute: 8
-		Second: 13
-		Millisecond: 738
+		Day: 16
+		Hour: 14
+		Minute: 50
+		Second: 8
+		Millisecond: 931
 	}
 	Creator: "FBX SDK/FBX Plugins version 2019.2"
 	SceneInfo: "SceneInfo::GlobalInfo", "UserData" {
@@ -34,14 +34,14 @@ FBXHeaderExtension:  {
 			P: "Original|ApplicationVendor", "KString", "", "", "Autodesk"
 			P: "Original|ApplicationName", "KString", "", "", "Maya"
 			P: "Original|ApplicationVersion", "KString", "", "", "201901"
-			P: "Original|DateTime_GMT", "DateTime", "", "", "13/09/2019 01:08:13.733"
+			P: "Original|DateTime_GMT", "DateTime", "", "", "16/09/2019 02:50:08.928"
 			P: "Original|FileName", "KString", "", "", "D:\932400201\Documents\Unreal Projects\CWR\Content\Models\Platforms\CWR_Fence.fbx"
 			P: "LastSaved", "Compound", "", ""
 			P: "LastSaved|ApplicationVendor", "KString", "", "", "Autodesk"
 			P: "LastSaved|ApplicationName", "KString", "", "", "Maya"
 			P: "LastSaved|ApplicationVersion", "KString", "", "", "201901"
-			P: "LastSaved|DateTime_GMT", "DateTime", "", "", "13/09/2019 01:08:13.733"
-			P: "Original|ApplicationActiveProject", "KString", "", "", "D:\932400201\Documents\maya\projects"
+			P: "LastSaved|DateTime_GMT", "DateTime", "", "", "16/09/2019 02:50:08.928"
+			P: "Original|ApplicationActiveProject", "KString", "", "", "D:\932400201\Desktop"
 			P: "Original|ApplicationNativeFile", "KString", "", "", "D:\932400201\Desktop\TrainStation_Blocking_v002.ma"
 		}
 	}
@@ -77,7 +77,7 @@ GlobalSettings:  {
 
 Documents:  {
 	Count: 1
-	Document: 1848227054064, "", "Scene" {
+	Document: 1531605505408, "", "Scene" {
 		Properties70:  {
 			P: "SourceObject", "object", "", ""
 			P: "ActiveAnimStackName", "KString", "", "", "Take 001"
@@ -232,21 +232,21 @@ Definitions:  {
 ;------------------------------------------------------------------
 
 Objects:  {
-	NodeAttribute: 1848353968256, "NodeAttribute::", "Null" {
+	NodeAttribute: 1533977373904, "NodeAttribute::", "Null" {
 		Properties70:  {
 			P: "Look", "enum", "", "",0
 		}
 		TypeFlags: "Null"
 	}
-	NodeAttribute: 1848353968608, "NodeAttribute::", "Null" {
+	NodeAttribute: 1533977373552, "NodeAttribute::", "Null" {
 		Properties70:  {
 			P: "Look", "enum", "", "",0
 		}
 		TypeFlags: "Null"
 	}
-	Geometry: 1848219246768, "Geometry::", "Mesh" {
+	Geometry: 1533902889568, "Geometry::", "Mesh" {
 		Vertices: *18 {
-			a: -1.16631925106049,-4.76837158203125e-07,3.34248828887939,0.131096124649048,-4.76837158203125e-07,3.34248828887939,-1.16631925106049,-4.76837158203125e-07,-49.5021629333496,0.131096124649048,-4.76837158203125e-07,-49.5021629333496,-1.16631925106049,-0.288360297679901,6.18175792694092,0.131096124649048,-0.288360297679901,6.18175792694092
+			a: -1.16631925106049,-4.76837158203125e-07,3.34248828887939,0.131096124649048,-4.76837158203125e-07,3.34248828887939,-1.16631925106049,-4.76837158203125e-07,-49.5021629333496,0.131096124649048,-4.76837158203125e-07,-49.5021629333496,-1.16631925106049,-0.269553989171982,5.99658584594727,0.131096124649048,-0.288360297679901,6.18175792694092
 		} 
 		PolygonVertexIndex: *8 {
 			a: 0,2,3,-2,1,5,4,-1
@@ -261,7 +261,7 @@ Objects:  {
 			MappingInformationType: "ByPolygonVertex"
 			ReferenceInformationType: "Direct"
 			Normals: *24 {
-				a: 0,-1,0,0,-1,0,0,-1,0,0,-1,0,0,-0.994882166385651,-0.101041495800018,0,-0.994882166385651,-0.101041495800018,0,-0.994882166385651,-0.101041495800018,0,-0.994882166385651,-0.101041495800018
+				a: 0,-1,0,0,-1,0,0,-1,0,0,-1,0,0,-0.994882225990295,-0.101041495800018,0,-0.994882166385651,-0.101041495800018,0,-0.994882225990295,-0.101041495800018,0,-0.994882225990295,-0.101041495800018
 			} 
 			NormalsW: *8 {
 				a: 1,1,1,1,1,1,1,1
@@ -273,7 +273,7 @@ Objects:  {
 			MappingInformationType: "ByPolygonVertex"
 			ReferenceInformationType: "Direct"
 			Binormals: *24 {
-				a: -1,0,0.000152815278852358,-1,0,0.000152805398101918,-1,0,0.000152795517351478,-1,0,0.000152805398101918,-1,-1.54070967255393e-05,0.00015170247934293,-1,-1.5388159226859e-05,0.000151516011101194,-1,-1.53692235471681e-05,0.000151329557411373,-1,-1.5388159226859e-05,0.000151516011101194
+				a: -1,0,0.000152815278852358,-1,0,0.000152805398101918,-1,0,0.000152795517351478,-1,0,0.000152805398101918,-1,-1.59241317305714e-05,0.000156793365022168,-1,-1.54067711264361e-05,0.00015169927792158,-1,-1.59241317305714e-05,0.000156793365022168,-1,-1.64414923347067e-05,0.00016188743757084
 			} 
 			BinormalsW: *8 {
 				a: 1,1,1,1,1,1,1,1
@@ -286,7 +286,7 @@ Objects:  {
 			MappingInformationType: "ByPolygonVertex"
 			ReferenceInformationType: "Direct"
 			Tangents: *24 {
-				a: 0.000152815278852358,0,1,0.000152805398101918,0,1,0.000152795517351478,0,1,0.000152805398101918,0,1,0.000152482840348966,-0.101041495800018,0.994882225990295,0.00015229542623274,-0.101041495800018,0.994882225990295,0.000152108012116514,-0.101041495800018,0.994882225990295,0.00015229542623274,-0.101041495800018,0.994882225990295
+				a: 0.000152815278852358,0,1,0.000152805398101918,0,1,0.000152795517351478,0,1,0.000152805398101918,0,1,0.000157599919475615,-0.101041495800018,0.994882225990295,0.000152479624375701,-0.101041495800018,0.994882225990295,0.000157599919475615,-0.101041495800018,0.994882225990295,0.000162720200023614,-0.101041495800018,0.994882225990295
 			} 
 			TangentsW: *8 {
 				a: 1,1,1,1,1,1,1,1
@@ -350,7 +350,7 @@ Objects:  {
 			}
 		}
 	}
-	Model: 1847978792224, "Model::TrainStation_MESH_GRP", "Null" {
+	Model: 1533896379312, "Model::TrainStation_MESH_GRP", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationActive", "bool", "", "",1
@@ -361,7 +361,7 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 1847978778304, "Model::TrainStation_Platform_GRP", "Null" {
+	Model: 1533896374672, "Model::TrainStation_Platform_GRP", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationPivot", "Vector3D", "Vector", "",0,0,1353.88808416924
@@ -377,7 +377,7 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 1847978794544, "Model::TrainStation_Fence", "Mesh" {
+	Model: 1533896400192, "Model::TrainStation_Fence", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationActive", "bool", "", "",1
@@ -392,7 +392,7 @@ Objects:  {
 		Shading: T
 		Culling: "CullingOff"
 	}
-	Material: 1848210424144, "Material::lambert1", "" {
+	Material: 1531390418896, "Material::lambert1", "" {
 		Version: 102
 		ShadingModel: "lambert"
 		MultiLayer: 0
@@ -415,23 +415,23 @@ Objects:  {
 Connections:  {
 	
 	;Model::TrainStation_MESH_GRP, Model::RootNode
-	C: "OO",1847978792224,0
+	C: "OO",1533896379312,0
 	
 	;NodeAttribute::, Model::TrainStation_MESH_GRP
-	C: "OO",1848353968256,1847978792224
+	C: "OO",1533977373904,1533896379312
 	
 	;Model::TrainStation_Platform_GRP, Model::TrainStation_MESH_GRP
-	C: "OO",1847978778304,1847978792224
+	C: "OO",1533896374672,1533896379312
 	
 	;NodeAttribute::, Model::TrainStation_Platform_GRP
-	C: "OO",1848353968608,1847978778304
+	C: "OO",1533977373552,1533896374672
 	
 	;Model::TrainStation_Fence, Model::TrainStation_Platform_GRP
-	C: "OO",1847978794544,1847978778304
+	C: "OO",1533896400192,1533896374672
 	
 	;Geometry::, Model::TrainStation_Fence
-	C: "OO",1848219246768,1847978794544
+	C: "OO",1533902889568,1533896400192
 	
 	;Material::lambert1, Model::TrainStation_Fence
-	C: "OO",1848210424144,1847978794544
+	C: "OO",1531390418896,1533896400192
 }
