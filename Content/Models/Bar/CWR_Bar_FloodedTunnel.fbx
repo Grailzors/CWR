@@ -9,17 +9,23 @@ FBXHeaderExtension:  {
 		Year: 2019
 		Month: 9
 <<<<<<< HEAD
+<<<<<<< HEAD
 		Day: 10
 		Hour: 13
 		Minute: 18
 		Second: 9
 		Millisecond: 689
 =======
+=======
+>>>>>>> ce497ba... Broken Into Sections
 		Day: 9
 		Hour: 14
 		Minute: 13
 		Second: 17
 		Millisecond: 961
+<<<<<<< HEAD
+>>>>>>> ce497ba... Broken Into Sections
+=======
 >>>>>>> ce497ba... Broken Into Sections
 	}
 	Creator: "FBX SDK/FBX Plugins version 2019.2"
@@ -43,7 +49,11 @@ FBXHeaderExtension:  {
 			P: "Original|ApplicationName", "KString", "", "", "Maya"
 			P: "Original|ApplicationVersion", "KString", "", "", "201901"
 <<<<<<< HEAD
+<<<<<<< HEAD
 			P: "Original|DateTime_GMT", "DateTime", "", "", "10/09/2019 01:18:09.687"
+=======
+			P: "Original|DateTime_GMT", "DateTime", "", "", "09/09/2019 02:13:17.959"
+>>>>>>> ce497ba... Broken Into Sections
 =======
 			P: "Original|DateTime_GMT", "DateTime", "", "", "09/09/2019 02:13:17.959"
 >>>>>>> ce497ba... Broken Into Sections
@@ -53,7 +63,11 @@ FBXHeaderExtension:  {
 			P: "LastSaved|ApplicationName", "KString", "", "", "Maya"
 			P: "LastSaved|ApplicationVersion", "KString", "", "", "201901"
 <<<<<<< HEAD
+<<<<<<< HEAD
 			P: "LastSaved|DateTime_GMT", "DateTime", "", "", "10/09/2019 01:18:09.687"
+=======
+			P: "LastSaved|DateTime_GMT", "DateTime", "", "", "09/09/2019 02:13:17.959"
+>>>>>>> ce497ba... Broken Into Sections
 =======
 			P: "LastSaved|DateTime_GMT", "DateTime", "", "", "09/09/2019 02:13:17.959"
 >>>>>>> ce497ba... Broken Into Sections
@@ -94,7 +108,11 @@ GlobalSettings:  {
 Documents:  {
 	Count: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Document: 2665321244128, "", "Scene" {
+=======
+	Document: 2738546907808, "", "Scene" {
+>>>>>>> ce497ba... Broken Into Sections
 =======
 	Document: 2738546907808, "", "Scene" {
 >>>>>>> ce497ba... Broken Into Sections
@@ -253,7 +271,11 @@ Definitions:  {
 
 Objects:  {
 <<<<<<< HEAD
+<<<<<<< HEAD
 	NodeAttribute: 2665337915792, "NodeAttribute::", "Null" {
+=======
+	NodeAttribute: 2738576183696, "NodeAttribute::", "Null" {
+>>>>>>> ce497ba... Broken Into Sections
 =======
 	NodeAttribute: 2738576183696, "NodeAttribute::", "Null" {
 >>>>>>> ce497ba... Broken Into Sections
@@ -263,7 +285,11 @@ Objects:  {
 		TypeFlags: "Null"
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	NodeAttribute: 2665337920720, "NodeAttribute::", "Null" {
+=======
+	NodeAttribute: 2738576184928, "NodeAttribute::", "Null" {
+>>>>>>> ce497ba... Broken Into Sections
 =======
 	NodeAttribute: 2738576184928, "NodeAttribute::", "Null" {
 >>>>>>> ce497ba... Broken Into Sections
@@ -273,7 +299,11 @@ Objects:  {
 		TypeFlags: "Null"
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	NodeAttribute: 2665337917200, "NodeAttribute::", "Null" {
+=======
+	NodeAttribute: 2738576182464, "NodeAttribute::", "Null" {
+>>>>>>> ce497ba... Broken Into Sections
 =======
 	NodeAttribute: 2738576182464, "NodeAttribute::", "Null" {
 >>>>>>> ce497ba... Broken Into Sections
@@ -283,9 +313,15 @@ Objects:  {
 		TypeFlags: "Null"
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Geometry: 2665321520272, "Geometry::", "Mesh" {
 		Vertices: *12 {
 			a: -3640.36694335938,-99.9999389648438,-185.49755859375,-3640.36694335938,505.888977050781,-185.49755859375,-3640.36694335938,-99.9999389648438,-1078.62683105469,-3640.36694335938,505.888977050781,-1078.62683105469
+=======
+	Geometry: 2738590699648, "Geometry::", "Mesh" {
+		Vertices: *12 {
+			a: -327.8046875,-605.888916015625,732.650024414063,-327.8046875,0,732.650024414063,-327.8046875,-605.888916015625,-160.479217529297,-327.8046875,0,-160.479217529297
+>>>>>>> ce497ba... Broken Into Sections
 =======
 	Geometry: 2738590699648, "Geometry::", "Mesh" {
 		Vertices: *12 {
@@ -395,9 +431,15 @@ Objects:  {
 		}
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Geometry: 2665321539216, "Geometry::", "Mesh" {
 		Vertices: *12 {
 			a: -3640.36694335938,505.888977050781,-185.49755859375,-2702.25805664063,505.888977050781,-185.49755859375,-3640.36694335938,505.888977050781,-1078.62683105469,-2702.25805664063,505.888977050781,-1078.62683105469
+=======
+	Geometry: 2738590700672, "Geometry::", "Mesh" {
+		Vertices: *12 {
+			a: -327.8046875,0,732.650024414063,610.30419921875,0,732.650024414063,-327.8046875,0,-160.479217529297,610.30419921875,0,-160.479217529297
+>>>>>>> ce497ba... Broken Into Sections
 =======
 	Geometry: 2738590700672, "Geometry::", "Mesh" {
 		Vertices: *12 {
@@ -507,9 +549,15 @@ Objects:  {
 		}
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Geometry: 2665321522320, "Geometry::", "Mesh" {
 		Vertices: *12 {
 			a: -2704.74145507813,-99.9999389648438,-185.49755859375,-2704.74145507813,505.888977050781,-185.49755859375,-3640.36694335938,-99.9999389648438,-185.49755859375,-3640.36694335938,505.888977050781,-185.49755859375
+=======
+	Geometry: 2738590675584, "Geometry::", "Mesh" {
+		Vertices: *12 {
+			a: 607.82080078125,-605.888916015625,732.650024414063,607.82080078125,0,732.650024414063,-327.8046875,-605.888916015625,732.650024414063,-327.8046875,0,732.650024414063
+>>>>>>> ce497ba... Broken Into Sections
 =======
 	Geometry: 2738590675584, "Geometry::", "Mesh" {
 		Vertices: *12 {
@@ -619,9 +667,15 @@ Objects:  {
 		}
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Geometry: 2665321526928, "Geometry::", "Mesh" {
 		Vertices: *12 {
 			a: -3640.36694335938,-100.000007629395,-185.49755859375,-2754.87426757813,1.76840209960938,-185.49755859375,-3640.36694335938,-100.000007629395,-1078.62683105469,-2754.87426757813,1.76840209960938,-1078.62683105469
+=======
+	Geometry: 2738590681216, "Geometry::", "Mesh" {
+		Vertices: *12 {
+			a: -327.8046875,0,732.650024414063,557.68798828125,101.768409729004,732.650024414063,-327.8046875,0,-160.479217529297,557.68798828125,101.768409729004,-160.479217529297
+>>>>>>> ce497ba... Broken Into Sections
 =======
 	Geometry: 2738590681216, "Geometry::", "Mesh" {
 		Vertices: *12 {
@@ -642,7 +696,11 @@ Objects:  {
 			ReferenceInformationType: "Direct"
 			Normals: *12 {
 <<<<<<< HEAD
+<<<<<<< HEAD
 				a: -0.114176996052265,0.993460536003113,0,-0.114176996052265,0.993460536003113,0,-0.114176996052265,0.993460536003113,0,-0.114176996052265,0.993460536003113,0
+=======
+				a: -0.114176981151104,0.993460536003113,0,-0.114176981151104,0.993460536003113,0,-0.114176981151104,0.993460536003113,0,-0.114176981151104,0.993460536003113,0
+>>>>>>> ce497ba... Broken Into Sections
 =======
 				a: -0.114176981151104,0.993460536003113,0,-0.114176981151104,0.993460536003113,0,-0.114176981151104,0.993460536003113,0,-0.114176981151104,0.993460536003113,0
 >>>>>>> ce497ba... Broken Into Sections
@@ -671,7 +729,11 @@ Objects:  {
 			ReferenceInformationType: "Direct"
 			Tangents: *12 {
 <<<<<<< HEAD
+<<<<<<< HEAD
 				a: 0.993460536003113,0.114176996052265,0,0.993460536003113,0.114176996052265,0,0.993460536003113,0.114176996052265,0,0.993460536003113,0.114176996052265,0
+=======
+				a: 0.993460536003113,0.114176981151104,0,0.993460536003113,0.114176981151104,0,0.993460536003113,0.114176981151104,0,0.993460536003113,0.114176981151104,0
+>>>>>>> ce497ba... Broken Into Sections
 =======
 				a: 0.993460536003113,0.114176981151104,0,0.993460536003113,0.114176981151104,0,0.993460536003113,0.114176981151104,0,0.993460536003113,0.114176981151104,0
 >>>>>>> ce497ba... Broken Into Sections
@@ -739,7 +801,11 @@ Objects:  {
 		}
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Model: 2665304019200, "Model::TrainStation_MESH_GRP", "Null" {
+=======
+	Model: 2738597225760, "Model::TrainStation_MESH_GRP", "Null" {
+>>>>>>> ce497ba... Broken Into Sections
 =======
 	Model: 2738597225760, "Model::TrainStation_MESH_GRP", "Null" {
 >>>>>>> ce497ba... Broken Into Sections
@@ -754,7 +820,11 @@ Objects:  {
 		Culling: "CullingOff"
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Model: 2665304021520, "Model::CWR_Bar", "Null" {
+=======
+	Model: 2738597214160, "Model::CWR_Bar", "Null" {
+>>>>>>> ce497ba... Broken Into Sections
 =======
 	Model: 2738597214160, "Model::CWR_Bar", "Null" {
 >>>>>>> ce497ba... Broken Into Sections
@@ -772,6 +842,7 @@ Objects:  {
 		Culling: "CullingOff"
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Model: 2665304042400, "Model::CWR_Bar_FloodedTunnel", "Null" {
 		Version: 232
 		Properties70:  {
@@ -782,11 +853,20 @@ Objects:  {
 		Version: 232
 		Properties70:  {
 >>>>>>> ce497ba... Broken Into Sections
+=======
+	Model: 2738597209520, "Model::CWR_Bar_FloodedTunnel", "Null" {
+		Version: 232
+		Properties70:  {
+>>>>>>> ce497ba... Broken Into Sections
 			P: "RotationActive", "bool", "", "",1
 			P: "InheritType", "enum", "", "",1
 			P: "ScalingMax", "Vector3D", "Vector", "",0,0,0
 			P: "DefaultAttributeIndex", "int", "Integer", "",0
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+			P: "Lcl Translation", "Lcl Translation", "", "A",-20.608197903593,0,164.798480607345
+>>>>>>> ce497ba... Broken Into Sections
 =======
 			P: "Lcl Translation", "Lcl Translation", "", "A",-20.608197903593,0,164.798480607345
 >>>>>>> ce497ba... Broken Into Sections
@@ -794,6 +874,7 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
+<<<<<<< HEAD
 <<<<<<< HEAD
 	Model: 2665304016880, "Model::pPlane86", "Mesh" {
 		Version: 232
@@ -805,11 +886,20 @@ Objects:  {
 		Version: 232
 		Properties70:  {
 >>>>>>> ce497ba... Broken Into Sections
+=======
+	Model: 2738597202560, "Model::pPlane86", "Mesh" {
+		Version: 232
+		Properties70:  {
+>>>>>>> ce497ba... Broken Into Sections
 			P: "RotationActive", "bool", "", "",1
 			P: "InheritType", "enum", "", "",1
 			P: "ScalingMax", "Vector3D", "Vector", "",0,0,0
 			P: "DefaultAttributeIndex", "int", "Integer", "",0
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+			P: "Lcl Translation", "Lcl Translation", "", "A",-3291.9541015625,505.888977050781,-1082.94608303097
+>>>>>>> ce497ba... Broken Into Sections
 =======
 			P: "Lcl Translation", "Lcl Translation", "", "A",-3291.9541015625,505.888977050781,-1082.94608303097
 >>>>>>> ce497ba... Broken Into Sections
@@ -818,6 +908,7 @@ Objects:  {
 		Shading: T
 		Culling: "CullingOff"
 	}
+<<<<<<< HEAD
 <<<<<<< HEAD
 	Model: 2665304065600, "Model::pPlane84", "Mesh" {
 		Version: 232
@@ -829,11 +920,20 @@ Objects:  {
 		Version: 232
 		Properties70:  {
 >>>>>>> ce497ba... Broken Into Sections
+=======
+	Model: 2738597211840, "Model::pPlane84", "Mesh" {
+		Version: 232
+		Properties70:  {
+>>>>>>> ce497ba... Broken Into Sections
 			P: "RotationActive", "bool", "", "",1
 			P: "InheritType", "enum", "", "",1
 			P: "ScalingMax", "Vector3D", "Vector", "",0,0,0
 			P: "DefaultAttributeIndex", "int", "Integer", "",0
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+			P: "Lcl Translation", "Lcl Translation", "", "A",-3291.9541015625,505.888977050781,-1082.94608303097
+>>>>>>> ce497ba... Broken Into Sections
 =======
 			P: "Lcl Translation", "Lcl Translation", "", "A",-3291.9541015625,505.888977050781,-1082.94608303097
 >>>>>>> ce497ba... Broken Into Sections
@@ -842,6 +942,7 @@ Objects:  {
 		Shading: T
 		Culling: "CullingOff"
 	}
+<<<<<<< HEAD
 <<<<<<< HEAD
 	Model: 2665304067920, "Model::pPlane87", "Mesh" {
 		Version: 232
@@ -853,11 +954,20 @@ Objects:  {
 		Version: 232
 		Properties70:  {
 >>>>>>> ce497ba... Broken Into Sections
+=======
+	Model: 2738597195600, "Model::pPlane87", "Mesh" {
+		Version: 232
+		Properties70:  {
+>>>>>>> ce497ba... Broken Into Sections
 			P: "RotationActive", "bool", "", "",1
 			P: "InheritType", "enum", "", "",1
 			P: "ScalingMax", "Vector3D", "Vector", "",0,0,0
 			P: "DefaultAttributeIndex", "int", "Integer", "",0
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+			P: "Lcl Translation", "Lcl Translation", "", "A",-3291.9541015625,505.888977050781,-1082.94608303097
+>>>>>>> ce497ba... Broken Into Sections
 =======
 			P: "Lcl Translation", "Lcl Translation", "", "A",-3291.9541015625,505.888977050781,-1082.94608303097
 >>>>>>> ce497ba... Broken Into Sections
@@ -866,6 +976,7 @@ Objects:  {
 		Shading: T
 		Culling: "CullingOff"
 	}
+<<<<<<< HEAD
 <<<<<<< HEAD
 	Model: 2665304047040, "Model::pPlane85", "Mesh" {
 		Version: 232
@@ -877,11 +988,20 @@ Objects:  {
 		Version: 232
 		Properties70:  {
 >>>>>>> ce497ba... Broken Into Sections
+=======
+	Model: 2738597197920, "Model::pPlane85", "Mesh" {
+		Version: 232
+		Properties70:  {
+>>>>>>> ce497ba... Broken Into Sections
 			P: "RotationActive", "bool", "", "",1
 			P: "InheritType", "enum", "", "",1
 			P: "ScalingMax", "Vector3D", "Vector", "",0,0,0
 			P: "DefaultAttributeIndex", "int", "Integer", "",0
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+			P: "Lcl Translation", "Lcl Translation", "", "A",-3291.9541015625,-100.000007629395,-1082.94608303097
+>>>>>>> ce497ba... Broken Into Sections
 =======
 			P: "Lcl Translation", "Lcl Translation", "", "A",-3291.9541015625,-100.000007629395,-1082.94608303097
 >>>>>>> ce497ba... Broken Into Sections
@@ -891,7 +1011,11 @@ Objects:  {
 		Culling: "CullingOff"
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Material: 2665322153520, "Material::lambert1", "" {
+=======
+	Material: 2738602568768, "Material::lambert1", "" {
+>>>>>>> ce497ba... Broken Into Sections
 =======
 	Material: 2738602568768, "Material::lambert1", "" {
 >>>>>>> ce497ba... Broken Into Sections
@@ -917,6 +1041,7 @@ Objects:  {
 Connections:  {
 	
 	;Model::TrainStation_MESH_GRP, Model::RootNode
+<<<<<<< HEAD
 <<<<<<< HEAD
 	C: "OO",2665304019200,0
 	
@@ -971,6 +1096,8 @@ Connections:  {
 	;Material::lambert1, Model::pPlane85
 	C: "OO",2665322153520,2665304047040
 =======
+=======
+>>>>>>> ce497ba... Broken Into Sections
 	C: "OO",2738597225760,0
 	
 	;NodeAttribute::, Model::TrainStation_MESH_GRP
@@ -1023,5 +1150,8 @@ Connections:  {
 	
 	;Material::lambert1, Model::pPlane85
 	C: "OO",2738602568768,2738597197920
+<<<<<<< HEAD
+>>>>>>> ce497ba... Broken Into Sections
+=======
 >>>>>>> ce497ba... Broken Into Sections
 }
