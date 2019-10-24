@@ -7,12 +7,12 @@ FBXHeaderExtension:  {
 	CreationTimeStamp:  {
 		Version: 1000
 		Year: 2019
-		Month: 9
-		Day: 26
-		Hour: 14
-		Minute: 49
-		Second: 32
-		Millisecond: 562
+		Month: 10
+		Day: 22
+		Hour: 12
+		Minute: 50
+		Second: 6
+		Millisecond: 127
 	}
 	Creator: "FBX SDK/FBX Plugins version 2019.2"
 	SceneInfo: "SceneInfo::GlobalInfo", "UserData" {
@@ -34,15 +34,15 @@ FBXHeaderExtension:  {
 			P: "Original|ApplicationVendor", "KString", "", "", "Autodesk"
 			P: "Original|ApplicationName", "KString", "", "", "Maya"
 			P: "Original|ApplicationVersion", "KString", "", "", "201901"
-			P: "Original|DateTime_GMT", "DateTime", "", "", "26/09/2019 02:49:32.559"
+			P: "Original|DateTime_GMT", "DateTime", "", "", "21/10/2019 23:50:06.125"
 			P: "Original|FileName", "KString", "", "", "D:\932400201\Documents\Unreal Projects\CWR\Content\Models\Platforms\CWR_Fence.fbx"
 			P: "LastSaved", "Compound", "", ""
 			P: "LastSaved|ApplicationVendor", "KString", "", "", "Autodesk"
 			P: "LastSaved|ApplicationName", "KString", "", "", "Maya"
 			P: "LastSaved|ApplicationVersion", "KString", "", "", "201901"
-			P: "LastSaved|DateTime_GMT", "DateTime", "", "", "26/09/2019 02:49:32.559"
-			P: "Original|ApplicationActiveProject", "KString", "", "", "D:\932400201\Desktop\CWR_Modeling_v001\scenes"
-			P: "Original|ApplicationNativeFile", "KString", "", "", "D:\932400201\Desktop\TrainStation_Blocking_v002.ma"
+			P: "LastSaved|DateTime_GMT", "DateTime", "", "", "21/10/2019 23:50:06.125"
+			P: "Original|ApplicationActiveProject", "KString", "", "", "D:\932400201\Desktop\Maya working files\Environment"
+			P: "Original|ApplicationNativeFile", "KString", "", "", "D:\932400201\Desktop\Maya working files\Environment\Platforms_Texturing_v01.ma"
 		}
 	}
 }
@@ -77,7 +77,7 @@ GlobalSettings:  {
 
 Documents:  {
 	Count: 1
-	Document: 2497768228448, "", "Scene" {
+	Document: 2597005160688, "", "Scene" {
 		Properties70:  {
 			P: "SourceObject", "object", "", ""
 			P: "ActiveAnimStackName", "KString", "", "", "Take 001"
@@ -232,19 +232,19 @@ Definitions:  {
 ;------------------------------------------------------------------
 
 Objects:  {
-	NodeAttribute: 2499257255248, "NodeAttribute::", "Null" {
+	NodeAttribute: 2596871092304, "NodeAttribute::", "Null" {
 		Properties70:  {
 			P: "Look", "enum", "", "",0
 		}
 		TypeFlags: "Null"
 	}
-	NodeAttribute: 2499257254192, "NodeAttribute::", "Null" {
+	NodeAttribute: 2596871101104, "NodeAttribute::", "Null" {
 		Properties70:  {
 			P: "Look", "enum", "", "",0
 		}
 		TypeFlags: "Null"
 	}
-	Geometry: 2497817393264, "Geometry::", "Mesh" {
+	Geometry: 2596595039344, "Geometry::", "Mesh" {
 		Vertices: *18 {
 			a: -1.16631925106049,-4.76837158203125e-07,3.34248828887939,0.131096124649048,-4.76837158203125e-07,3.34248828887939,-1.16631925106049,-4.76837158203125e-07,-49.5021629333496,0.131096124649048,-4.76837158203125e-07,-49.5021629333496,-1.16631925106049,-0.269553989171982,5.99658584594727,0.131096124649048,-0.288360297679901,6.18175792694092
 		} 
@@ -350,7 +350,7 @@ Objects:  {
 			}
 		}
 	}
-	Model: 2497812018064, "Model::Platforms_MESH_GRP", "Null" {
+	Model: 2596992814608, "Model::Platforms_MESH_GRP", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationActive", "bool", "", "",1
@@ -361,7 +361,7 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 2497812050544, "Model::Platforms_Fence_GRP", "Null" {
+	Model: 2596992816928, "Model::Platforms_Fence_GRP", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationActive", "bool", "", "",1
@@ -374,7 +374,7 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 2497812020384, "Model::Platforms_FenceWire", "Mesh" {
+	Model: 2596992819248, "Model::Platforms_FenceWire", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationActive", "bool", "", "",1
@@ -389,7 +389,7 @@ Objects:  {
 		Shading: T
 		Culling: "CullingOff"
 	}
-	Material: 2497759461344, "Material::lambert1", "" {
+	Material: 2598332790944, "Material::lambert1", "" {
 		Version: 102
 		ShadingModel: "lambert"
 		MultiLayer: 0
@@ -412,23 +412,23 @@ Objects:  {
 Connections:  {
 	
 	;Model::Platforms_MESH_GRP, Model::RootNode
-	C: "OO",2497812018064,0
+	C: "OO",2596992814608,0
 	
 	;NodeAttribute::, Model::Platforms_MESH_GRP
-	C: "OO",2499257255248,2497812018064
+	C: "OO",2596871092304,2596992814608
 	
 	;Model::Platforms_Fence_GRP, Model::Platforms_MESH_GRP
-	C: "OO",2497812050544,2497812018064
+	C: "OO",2596992816928,2596992814608
 	
 	;NodeAttribute::, Model::Platforms_Fence_GRP
-	C: "OO",2499257254192,2497812050544
+	C: "OO",2596871101104,2596992816928
 	
 	;Model::Platforms_FenceWire, Model::Platforms_Fence_GRP
-	C: "OO",2497812020384,2497812050544
+	C: "OO",2596992819248,2596992816928
 	
 	;Geometry::, Model::Platforms_FenceWire
-	C: "OO",2497817393264,2497812020384
+	C: "OO",2596595039344,2596992819248
 	
 	;Material::lambert1, Model::Platforms_FenceWire
-	C: "OO",2497759461344,2497812020384
+	C: "OO",2598332790944,2596992819248
 }
