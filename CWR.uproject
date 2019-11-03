@@ -2,11 +2,5 @@
 	"FileVersion": 3,
 	"EngineAssociation": "{F73C4C3A-4153-1AF0-75A9-8196621C98C9}",
 	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "HoudiniEngine",
-			"Enabled": true
-		}
-	]
+	"Description": ""
 }
